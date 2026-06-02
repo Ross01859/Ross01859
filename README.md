@@ -1,133 +1,208 @@
-# Hi, I'm Raycen Wang 👋
+<p align="center">
+  <img src="./assets/banner.png" alt="Raycen Wang Banner" width="100%" />
+</p>
 
-### Frontend Engineer · Web3 Builder · AI Product Developer
+<h1 align="center">Hi 👋, I'm Raycen Wang</h1>
 
-7+ years of experience building Web applications, Web3 products, and AI-powered tools.
+<h3 align="center">
+Frontend Engineer · Web3 Builder · AI Product Developer
+</h3>
 
----
-
-# 关于我
-
-大家好，我是 Raycen Wang，一名拥有 7+ 年经验的前端工程师，目前专注于 Web3 与 AI 应用方向。
-
-过去几年主要参与并负责 DeFi、NFT、GameFi、钱包基础设施等项目的前端架构设计与核心业务开发，具备从需求分析、技术方案设计、架构落地到生产环境交付的完整经验。
-
-目前正在持续探索 AI Agent、RAG、Tool Calling、MCP 等方向，并尝试将 AI 能力与真实业务场景结合，构建能够创造实际价值的产品。
+<p align="center">
+Building products at the intersection of Web3, AI, and User Experience.
+</p>
 
 ---
 
-## 技术方向
+## 🚀 About Me
 
-### 前端开发
+拥有 7+ 年前端开发经验，长期专注于 React、TypeScript 生态，并深度参与 DeFi、NFT、GameFi、钱包基础设施等 Web3 项目的架构设计与核心业务开发。
 
-* React
-* Next.js
-* Vue
-* TypeScript
-* Tailwind CSS
-* Framer Motion
+近年来持续探索 AI 应用开发方向，重点关注：
 
-### Web3
-
-* Wagmi
-* RainbowKit
-* Viem
-* Ethers.js
-* WalletConnect
-* MetaMask
-* Solana Wallet Adapter
-
-### AI
-
-* OpenAI
-* Claude
-* MCP
-* RAG
+* Prompt Engineering
+* RAG（Retrieval-Augmented Generation）
 * Tool Calling
+* MCP（Model Context Protocol）
 * AI Agent
+* Workflow Automation
+
+希望将 AI 能力与真实业务场景结合，打造真正创造价值的产品。
 
 ---
 
-## 工作经历亮点
+## 🎯 Current Focus
 
-### Web3 项目经验
+```text
+Prompt
+   ↓
+RAG
+   ↓
+Tool Calling
+   ↓
+MCP
+   ↓
+AI Agent
+   ↓
+Production Applications
+```
 
-* 主导多个 DeFi、NFT、GameFi 项目前端架构设计与开发
-* 完成 MetaMask、WalletConnect、Ledger 等钱包接入
-* 支持 EVM 多链生态及 Solana 生态
-* 设计统一钱包与交易抽象层，提高项目扩展能力
-* 实现链上交易签名、广播、状态同步与异常处理机制
+---
 
-### 前端工程化
+## 🛠 Tech Stack
 
-* 搭建组件化开发体系
-* 优化复杂数据页面性能与渲染效率
-* 建立代码规范与 CI/CD 流程
-* 推动项目长期稳定运行
+### Frontend
 
-### AI 应用探索
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,vite)](https://skillicons.dev)
 
-* 基于 OpenAI、Claude 构建 AI 工具
-* 实践 Prompt → RAG → Tool Calling → Agent 完整链路
+### Backend & Infrastructure
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,docker,supabase,firebase)](https://skillicons.dev)
+
+### Development Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,linux)](https://skillicons.dev)
+
+---
+
+## 🔗 Web3 Stack
+
+![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-FF6B6B?style=for-the-badge)
+![Viem](https://img.shields.io/badge/Viem-6C47FF?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge)
+
+---
+
+## 🤖 AI Stack
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-FE7A16?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-2563EB?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge)
+![AI Agent](https://img.shields.io/badge/AI_Agent-10B981?style=for-the-badge)
+
+---
+
+## 💼 Professional Highlights
+
+### 🔹 Web3 Development
+
+* 主导多个 DeFi、NFT、GameFi 项目前端架构设计与核心业务开发
+* 完成 MetaMask、WalletConnect、Ledger 等主流钱包接入
+* 支持 EVM 多链生态与 Solana 生态
+* 设计统一钱包与交易抽象层
+* 实现链上交易签名、广播、状态同步与异常处理
+* 开发借贷、质押、NFT 市场、资产管理等核心业务模块
+
+### 🔹 Frontend Engineering
+
+* React / TypeScript 深度实践
+* 复杂业务系统架构设计与开发
+* 组件化体系建设
+* 工程化规范建设
+* CI/CD 自动化部署
+* 性能优化与用户体验提升
+* 独立完成需求分析、方案设计与项目交付
+
+### 🔹 AI Applications
+
+* 基于 OpenAI、Claude 构建 AI 工具与工作流
+* 实践 Prompt → RAG → Tool Calling → Agent 全链路开发
 * 利用 Cursor、Claude Code 提升研发效率
-* 独立开发 AI 产品与自动化工作流
+* 探索 AI 在研发、产品与自动化场景中的落地应用
 
 ---
 
-## 当前项目
+## 🚀 Featured Projects
 
 ### 🌙 夜里有话
 
 AI 情绪记录与陪伴小程序
 
-功能：
+**Features**
 
 * AI 树洞对话
+* 情绪记录
 * 情绪日记
 * 成长回顾
 * AI 陪伴
 
-技术栈：
+**Tech Stack**
 
 TypeScript · 微信小程序 · Supabase · OpenRouter
 
 ---
 
-## 当前学习路线
+### 🔐 Wallet Integration Framework
 
-Prompt Engineering
+统一钱包接入解决方案
 
-↓
+**Support**
 
-RAG
+* MetaMask
+* WalletConnect
+* RainbowKit
+* Multi-chain Support
 
-↓
+**Tech Stack**
 
-Tool Calling
-
-↓
-
-Agent
-
-↓
-
-Production
+React · Wagmi · RainbowKit · Viem
 
 ---
 
-## 技术理念
+### 📊 DeFi Dashboard
 
-坚持技术服务业务。
+链上资产与交易数据监控平台
 
-相信优秀的产品来自于：
+**Tech Stack**
 
-产品理解 × 用户体验 × 工程能力
-
-持续探索 Web、Web3 与 AI 的结合方式，打造真正被用户使用的产品。
+React · TypeScript · TanStack Query · WebSocket · Ethers.js
 
 ---
 
-## 联系方式
+### 🤖 AI Agent Workflow
+
+AI Agent 自动化工作流
+
+**Modules**
+
+* Prompt Engineering
+* RAG
+* Tool Calling
+* Memory
+* Agent Orchestration
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ross01859\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ross01859\&layout=compact\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ross01859\&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ross01859)
+
+---
+
+## 📚 Interests
+
+* AI Agents
+* AI Product Development
+* Web3 Infrastructure
+* Frontend Architecture
+* Developer Productivity
+* Workflow Automation
+
+---
+
+## 📫 Contact
 
 📧 Email
 
@@ -136,4 +211,10 @@ Production
 💻 GitHub
 
 https://github.com/Ross01859
+
+---
+
+<p align="center">
+  <b>Building products that connect Web3, AI, and real-world value.</b>
+</p>
 
